@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1435411616 source:/home/game/Desktop/snake/snake.c
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<signal.h>
+	<sys/time.h>
+
